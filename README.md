@@ -11,3 +11,13 @@ $ pip install -r requirements.txt
 $ python3 hash.py
 
 
+
+
+┌──(kali㉿localhost)-[~/Hashing-Recon]
+└─$ python3 hash.py
+ _   _           _     _                   ____                                  | | | | __ _ ___| |__ (_)_ __   __ _      |  _ \ ___  ___ ___  _ __
+| |_| |/ _` / __| '_ \| | '_ \ / _` |_____| |_) / _ \/ __/ _ \| '_ \             |  _  | (_| \__ \ | | | | | | | (_| |_____|  _ <  __/ (_| (_) | | | |            |_| |_|\__,_|___/_| |_|_|_| |_|\__, |     |_| \_\___|\___\___/|_| |_|
+                               |___/
+
+🧑‍💻 Author: https://github.com/JulioPryd
+Enter website URL: http://testphp.vulnweb.com/
